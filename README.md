@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalbndkji&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud Awad Mohammad" /> </p>
 - 🌱 I’m currently learning **Mobile Application Development**
 
-- 👨‍💻 All of my projects are available at [https://mahmoudawadmohammad.github.io/Portfolio/index.html](https://mahmoudalbndkji.github.io/Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://mahmoudawadmohammad.github.io/Portfolio/index.html](https://mahmoudawadmohammad.github.io/Portfolio/index.html)
 
 - 💬 Ask me about **Swift, Flutter and Kotlin**
 
@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-awad-mohmmad-297965287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-awad-mohmmad-297965287/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19486739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19486739" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-awad-mohmmad-297965287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-awad-mohmmad-297965287/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,8 +30,6 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
 
 <h2> Samples From My Projects </h2>
