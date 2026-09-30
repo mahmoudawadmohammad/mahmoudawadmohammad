@@ -37,11 +37,6 @@
 ### CmeEslah
 CmeEslah is an app designed to streamline the purchasing process for inmates. A person called a "Payer" can create an account, register an inmate under their care, and place product orders on their behalf from an available catalog.<br>
 The app ensures organized tracking of every inmate’s purchases and simplifies the management of requests in a secure and transparent way.
-<p>
- <a href="https://play.google.com/store/apps/details?id=app.jail.victoryArch" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-<a href="https://apps.apple.com/us/app/va-e-commerce/id6746265785" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-</p>
 <hr>
 
 ### V-On Time
