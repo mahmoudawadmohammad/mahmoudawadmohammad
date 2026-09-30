@@ -2,25 +2,23 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">Software Engineering - Mobile Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalbndkji&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud AL Bndkji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalbndkji&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud Awad Mohammad" /> </p>
 - 🌱 I’m currently learning **Mobile Application Development**
 
-- 👨‍💻 All of my projects are available at [https://mahmoudalbndkji.github.io/Portfolio/index.html](https://mahmoudalbndkji.github.io/Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://mahmoudawadmohammad.github.io/Portfolio/index.html](https://mahmoudalbndkji.github.io/Portfolio/index.html)
 
 - 💬 Ask me about **Swift, Flutter and Kotlin**
 
-- 📫 How to reach me **bndkjiprogrammer@gmail.com**
+- 📫 How to reach me **syaf14608gmail.com**
 
-- 📄 Know about my experiences [https://mahmoudalbndkji.github.io/Portfolio/index.html](https://mahmoudalbndkji.github.io/Portfolio/index.html)
+- 📄 Know about my experiences [https://mahmoudawadmohammad.github.io/Portfolio/index.html](https://mahmoudawadmohammad.github.io/Portfolio/index.html)
 
 - ⚡ Fun fact **always learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-al-bndkji-619a14241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-al-bndkji-619a14241/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-awad-mohmmad-297965287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-awad-mohmmad-297965287/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19486739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19486739" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mahmoudalbndkji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmoudalbndkji" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/mahmoudal-bndk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mahmoudal-bndk1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
