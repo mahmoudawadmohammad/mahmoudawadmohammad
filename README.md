@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">Software Engineering - Mobile Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalbndkji&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud Al Bandkji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudawadmohammad&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud Awad Mohammad" /> </p>
 - 🌱 I’m currently learning **Mobile Application Development**
 
 - 👨‍💻 All of my projects are available at [https://mahmoudawadmohammad.github.io/Portfolio/index.html](https://mahmoudawadmohammad.github.io/Portfolio/index.html)
