@@ -37,3 +37,21 @@
 ### MallToGo
 A Desktop Application using C# and some design library for a mall cashier system complete with a database and other feature Like searching and sorting the items and real time editing of the inventory and a printable bill .
 <hr>
+
+### Smart Pill Box
+Smart mobile application for medication management, designed to help elderly people and those
+with chronic illnesses adhere to their treatment schedules. The app provides an integrated system for
+managing medicines and smart drawers, allowing users to add medications with up to three daily doses, select
+specific weekdays for each medicine, and track the remaining pill count with alerts when running low.
+The app features scheduled notifications that reach the user, and supports manual intake if a dose is taken
+outside its scheduled time. It can also connect to an electronic device via Bluetooth to open the drawers
+automatically when it is time for a dose.
+The app is characterized by a simple and user-friendly interface, supports both Arabic and English languages,
+and includes dark mode, making it a practical and effective solution for improving medication adherence and
+reducing the burden of medication tracking for patients and their families .
+<hr>
+
+### My Medicine
+A smart mobile application dedicated to medication management, designed to help the elderly and individuals with chronic conditions adhere to their treatment schedules. The app offers a comprehensive management system that allows users to add medications, set up to three daily doses, select specific days of the week for each medication, and track remaining pill counts while receiving low-stock alerts.
+The app features scheduled notifications and supports manual logging of medication intake if a dose is taken outside its designated time. Additionally, medications can be assigned to specific categories—such as painkillers or vitamins—and users can generate daily or weekly medication reports for each patient, The application features a simple, user-friendly interface and supports both Arabic and English. It also offers a "Dark Mode" option, making it a practical and effective solution for improving medication adherence and easing the burden of medication tracking for patients and their families.
+<hr>
