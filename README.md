@@ -53,5 +53,12 @@ reducing the burden of medication tracking for patients and their families .
 
 ### My Medicine
 A smart mobile application dedicated to medication management, designed to help the elderly and individuals with chronic conditions adhere to their treatment schedules. The app offers a comprehensive management system that allows users to add medications, set up to three daily doses, select specific days of the week for each medication, and track remaining pill counts while receiving low-stock alerts.
-The app features scheduled notifications and supports manual logging of medication intake if a dose is taken outside its designated time. Additionally, medications can be assigned to specific categories—such as painkillers or vitamins—and users can generate daily or weekly medication reports for each patient, The application features a simple, user-friendly interface and supports both Arabic and English. It also offers a "Dark Mode" option, making it a practical and effective solution for improving medication adherence and easing the burden of medication tracking for patients and their families.
+The app features scheduled notifications and supports manual logging of medication intake if a dose is taken outside its designated time. Additionally, medications can be assigned to specific categories—such as painkillers or vitamins—and users can generate daily or weekly medication reports for each patient, The application features a simple, user-friendly interface and supports both Arabic and English. It also offers a "Dark Mode" option, making it a practical and effective solution for improving medication adherence and easing the burden of medication tracking for patients and their families .
+<hr>
+
+### Lister
+Lister Delivery app that have phone pranch and web pranch and back end maid from asp.net core api and my
+SQL
+database ,I personally worked with the mobile pranch I did interfaces responsive UI using flutter
+,and use more libraries for animation and many other design libraries for dynamic fully functinoal mobile app .
 <hr>
